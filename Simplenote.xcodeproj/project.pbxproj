@@ -208,7 +208,7 @@
 		467D9C7B1788D45000785EF3 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		467D9C7D1788D46900785EF3 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		467D9C7F1788D47500785EF3 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
-		46A3C9D717DFA81A002865AE /* Simplenote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Simplenote.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		46A3C9D717DFA81A002865AE /* SmartNote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmartNote.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		46A3C9DC17DFA866002865AE /* Simplenote-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Simplenote-Info.plist"; sourceTree = "<group>"; };
 		50598176A2CE081E99C2E695 /* Pods-Automattic-Simplenote.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Automattic-Simplenote.release.xcconfig"; path = "Pods/Target Support Files/Pods-Automattic-Simplenote/Pods-Automattic-Simplenote.release.xcconfig"; sourceTree = "<group>"; };
 		5D805D59818FC99438F2F637 /* Pods-Automattic-SimplenoteShare.distribution appstore.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Automattic-SimplenoteShare.distribution appstore.xcconfig"; path = "Pods/Target Support Files/Pods-Automattic-SimplenoteShare/Pods-Automattic-SimplenoteShare.distribution appstore.xcconfig"; sourceTree = "<group>"; };
@@ -766,7 +766,7 @@
 			isa = PBXGroup;
 			children = (
 				E29ADD5317848E8500E55842 /* SimplenoteTests.xctest */,
-				46A3C9D717DFA81A002865AE /* Simplenote.app */,
+				46A3C9D717DFA81A002865AE /* SmartNote.app */,
 				B5EB1EEC1C204EBD0080A1B3 /* SimplenoteShare.appex */,
 			);
 			name = Products;
@@ -994,7 +994,7 @@
 			);
 			name = Simplenote;
 			productName = Simplenote;
-			productReference = 46A3C9D717DFA81A002865AE /* Simplenote.app */;
+			productReference = 46A3C9D717DFA81A002865AE /* SmartNote.app */;
 			productType = "com.apple.product-type.application";
 		};
 		B5EB1EEB1C204EBD0080A1B3 /* SimplenoteShare */ = {
@@ -1505,7 +1505,8 @@
 					"$(inherited)",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.smartnms.simplenote;
-				PRODUCT_NAME = Simplenote;
+				PRODUCT_MODULE_NAME = Simplenote;
+				PRODUCT_NAME = SmartNote;
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Simplenote/Simplenote-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1544,7 +1545,8 @@
 					"$(inherited)",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.smartnms.simplenote;
-				PRODUCT_NAME = Simplenote;
+				PRODUCT_MODULE_NAME = Simplenote;
+				PRODUCT_NAME = SmartNote;
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Simplenote/Simplenote-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
@@ -1636,7 +1638,8 @@
 					"$(inherited)",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.smartnms.simplenote;
-				PRODUCT_NAME = Simplenote;
+				PRODUCT_MODULE_NAME = Simplenote;
+				PRODUCT_NAME = SmartNote;
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Simplenote/Simplenote-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
@@ -1729,7 +1732,7 @@
 					"$(inherited)",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.smartnms.simplenote;
-				PRODUCT_NAME = Simplenote;
+				PRODUCT_NAME = SmartNote;
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Simplenote/Simplenote-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
