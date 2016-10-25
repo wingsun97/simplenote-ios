@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-NSString *const SPTransitionControllerPopGestureTriggeredNotificationName;
+extern NSString *const SPTransitionControllerPopGestureTriggeredNotificationName;
 
 //NSString *const SPTransitionControllerWillPopView;
 //NSString *const SPTransitionControllerDidPopView;
