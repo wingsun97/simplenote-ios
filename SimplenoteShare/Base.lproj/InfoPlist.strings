@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Simplenote
+
+  Created by Wing Sun on 2016/10/25.
+  Copyright © 2016年 Automattic. All rights reserved.
+*/
+"CFBundleDisplayName" = "Smart Note";

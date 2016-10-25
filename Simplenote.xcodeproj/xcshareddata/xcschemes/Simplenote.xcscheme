@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "46A3C96017DFA81A002865AE"
-               BuildableName = "Simplenote.app"
+               BuildableName = "SmartNote.app"
                BlueprintName = "Simplenote"
                ReferencedContainer = "container:Simplenote.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "46A3C96017DFA81A002865AE"
-            BuildableName = "Simplenote.app"
+            BuildableName = "SmartNote.app"
             BlueprintName = "Simplenote"
             ReferencedContainer = "container:Simplenote.xcodeproj">
          </BuildableReference>
@@ -66,7 +66,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "46A3C96017DFA81A002865AE"
-            BuildableName = "Simplenote.app"
+            BuildableName = "SmartNote.app"
             BlueprintName = "Simplenote"
             ReferencedContainer = "container:Simplenote.xcodeproj">
          </BuildableReference>
@@ -85,7 +85,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "46A3C96017DFA81A002865AE"
-            BuildableName = "Simplenote.app"
+            BuildableName = "SmartNote.app"
             BlueprintName = "Simplenote"
             ReferencedContainer = "container:Simplenote.xcodeproj">
          </BuildableReference>
