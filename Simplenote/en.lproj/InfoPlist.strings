@@ -1,3 +1,7 @@
 /* Localized versions of Info.plist keys */
 
 "CFBundleDisplayName" = "Smart Note";
+"NSContactsUsageDescription" = "Smart Note need your Contacts Usage permission to share.";
+"NSPhotoLibraryUsageDescription" = "Smart Note need your Photo Library permission to share.";
+"NSCameraUsageDescription" = "Smart Note need your Camera Usage permission to share.";
+"NSMicrophoneUsageDescription" = "Smart Note need your Microphone Usage permission to record.";

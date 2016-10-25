@@ -1,3 +1,7 @@
 /* Localized versions of Info.plist keys */
 
 "CFBundleDisplayName" = "简记";
+"NSContactsUsageDescription" = "简记 需要使用您的通讯录以便分享和协作。";
+"NSPhotoLibraryUsageDescription" = "简记 需要使用您的照片库以便分享。";
+"NSCameraUsageDescription" = "简记 需要使用您的相机以便分享。";
+"NSMicrophoneUsageDescription" = "简记 需要使用您的麦克风以便记录。";

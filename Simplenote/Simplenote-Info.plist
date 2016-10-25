@@ -81,13 +81,13 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
     <key>NSContactsUsageDescription</key>
-    <string>简记 需要您的同意使用通讯录，以便协作和分享</string>
+    <string>${PRODUCT_NAME} need your Contacts Usage permission to share.</string>
     <key>NSPhotoLibraryUsageDescription</key>
-    <string>简记 需要您的同意使用媒体库，以便使用图片</string>
+    <string>${PRODUCT_NAME} need your Photo Library permission to share.</string>
     <key>NSCameraUsageDescription</key>
-    <string>简记 需要您的同意使用相机，以便记录媒体</string>
+    <string>${PRODUCT_NAME} need your Camera Usage permission to share.</string>
     <key>NSMicrophoneUsageDescription</key>
-    <string>简记 需要您的同意使用麦克风，以便记录媒体</string>
+    <string>${PRODUCT_NAME} need your Microphone Usage permission to record.</string>
     <key>LSApplicationQueriesSchemes</key>
     <array>
         <string>wechat</string>
